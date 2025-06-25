@@ -160,6 +160,6 @@ https://drive.google.com/file/d/1xDJ8aYb451fFts_2vn38VSUtOckL1Ajr/view?usp=drive
 ## 🙋‍♂️ Support
 
 If you found this project useful, give it a ⭐ on GitHub!
-Need help? Feel free to [open an issue](https://github.com/HariN999/SocialeX/issues).
+Need help? Feel free to [open an issue](https://github.com/VishnuVardhanReddyPadala/SocialeX/issues).
 
 ---
