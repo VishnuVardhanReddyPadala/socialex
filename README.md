@@ -119,7 +119,8 @@ App runs on:
 
 |  Posts                                                                                      |   Stories                                                                                  |
 | ------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------  |
-|  ![Posts](https://github.com/user-attachments/assets/66a1b41b-71bc-41de-86fc-d9a7fbeb9a3f)  | ![Stories](https://github.com/user-attachments/assets/f8330ac3-5a30-4a0e-94a4-2cd143a2ad9c)|
+|  ![Posts]<img width="1470" alt="Screenshot 2025-06-25 at 7 51 20 PM" src="https://github.com/user-attachments/assets/48d7f21e-e1c0-476e-8a7f-ca5dde020e05" />
+  | ![Stories](https://github.com/user-attachments/assets/f8330ac3-5a30-4a0e-94a4-2cd143a2ad9c)|
 
 
 
