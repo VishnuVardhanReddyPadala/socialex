@@ -120,7 +120,7 @@ See **[API.md](https://github.com/HariN999/SocialeX/blob/main/docs/API.md)** for
 ---
 
 ## **6. Screenshots & Demo**  
-📸 Screenshots: [View in /screenshots](https://github.com/HariN999/SocialeX/tree/main/Screenshots)
+📸 Screenshots: [View in /screenshots](https://github.com/VishnuVardhanReddyPadala/SocialeX/tree/main/Screenshots)
 
 🎥 Demo Video: [Watch on Drive](https://drive.google.com/file/d/1xDJ8aYb451fFts_2vn38VSUtOckL1Ajr/view?usp=drive_link) (Link in README.md) 
 
@@ -144,6 +144,6 @@ See **[API.md](https://github.com/HariN999/SocialeX/blob/main/docs/API.md)** for
 ## **9. Conclusion**  
 SocialeX successfully implements core social media features with a **secure MERN stack architecture**. The project is **ready for mentor review** and further scaling.  
 
-📌 **GitHub Repo:** [https://github.com/HariN999/SocialeX](https://github.com/HariN999/SocialeX)  
-📩 **Contact:** [narlakantihariharan@gmail.com]  
+📌 **GitHub Repo:** [https://github.com/HariN999/SocialeX](https://github.com/VishnuVardhanReddyPadala/SocialeX)  
+📩 **Contact:** [vishnuvardhan6842@gmail.com]  
 
