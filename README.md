@@ -117,10 +117,12 @@ App runs on:
 
 ![image](https://github.com/user-attachments/assets/6020e04b-0960-4baf-8e26-897fc535e135)
 
-|  Posts                                                                                      |   Stories                                                                                  |
-| ------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------  |
-|  ![Posts]<img width="1470" alt="Screenshot 2025-06-25 at 7 51 20 PM" src="https://github.com/user-attachments/assets/48d7f21e-e1c0-476e-8a7f-ca5dde020e05" />
-  | ![Stories](https://github.com/user-attachments/assets/f8330ac3-5a30-4a0e-94a4-2cd143a2ad9c)|
+| **Post** | **Story** |
+|----------|-----------|
+| <img width="500" src="https://github.com/user-attachments/assets/48d7f21e-e1c0-476e-8a7f-ca5dde020e05" /> | <img width="200" src="https://github.com/user-attachments/assets/f8330ac3-5a30-4a0e-94a4-2cd143a2ad9c" /> |
+
+
+
 
 
 
