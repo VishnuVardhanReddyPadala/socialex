@@ -155,7 +155,7 @@ REACT_APP_FIREBASE_APP_ID=your_app_id
 
 Watch a full walkthrough of SocialeX in action:
 
-https://drive.google.com/file/d/1xDJ8aYb451fFts_2vn38VSUtOckL1Ajr/view?usp=drive_link
+https://drive.google.com/file/d/1Bf7rgRbJ4Eqt1uZhFO28oJBPXPVk6tYG/view?usp=sharing
 
 ## 🙋‍♂️ Support
 
